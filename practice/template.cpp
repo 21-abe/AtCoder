@@ -25,4 +25,12 @@ int main() {
   // vec.at(0)とvec[0]は同じ，#define _GLIBCXX_DEBUGを使うことで前者と後者が同じ安全性へ
   // vec1 == vec2 これは配列の全要素が一致でtrue，配列変数である必要あり
 
+  // stl- standard template library（関数がまとまっているもの）の関数
+  // min(a, b)                       // aとbのうち小さい方の値を返す
+  // max(a, b)                       // aとbのうち大きい方の値を返す
+  // swap(a, b)                      // 変数aと変数bの値を交換する 
+  // sort(vec.begin(), vec.end())    // 配列変数vecをソートする（要素を小さい順に並び替える）
+  // reverse(vec.begin(), vec.end()) // 配列変数vecの要素の並びを逆にする
+	
+
 }
