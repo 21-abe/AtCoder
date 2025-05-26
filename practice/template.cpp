@@ -105,9 +105,9 @@ int main() {
   // 2. 再帰ステップの実装
   // 3. ベースケースの実装 （再帰呼び出しを行わずに完了できる処理）
   
-  // cout << fixed << setprecision(1); //桁数の指定
-
+  
   // その他
+  // cout << fixed << setprecision(1); //桁数の指定
   // count(s.begin(), s.end(), 'a')  // sが'a'を含む個数
   // s.count('a')                    // sが'a'を含むなら1
 
