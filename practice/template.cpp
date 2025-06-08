@@ -110,6 +110,7 @@ int main() {
   // cout << fixed << setprecision(1); //桁数の指定
   // count(s.begin(), s.end(), 'a')  // sが'a'を含む個数
   // s.count('a')                    // sが'a'を含むなら1
+  // vector<pair<int, string>> v;    // ペアでベクトル化，v.push_back({T, S})とかで追加
 
 
 
