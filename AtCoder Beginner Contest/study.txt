@@ -1,3 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+}
+
+cout << fixed << setprecision(1); //桁数の指定
+count(s.begin(), s.end(), 'a')  // sが'a'を含む個数
+s.count('a')                    // sが'a'を含むなら1
+vector<pair<int, string>> v;    // ペアでベクトル化，v.push_back({T, S})とかで追加
+
+
+
+
 バケットソート
 要素をX個含む数列Aから異なる2つの要素を選び取る場合の数はX(X-1)/2通り
 例えば，Xをnで割った余りをvector<int> B(X, 0)などに格納すると，余りが同じものの選び方は(B(i)*(B(i)-1))/2の残差で計算可能
