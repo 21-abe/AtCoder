@@ -22,3 +22,6 @@ for (auto& x : A) cin >> x;
 
 逆からソート
 sort(A.rbegin(), A.rend());
+
+log2(x)　関数あり
+log10(x)
